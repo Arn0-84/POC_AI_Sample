@@ -1,0 +1,16 @@
+{
+  "name": "HelloSample",
+  "description": "Script de démonstration pour tester list, help et run.",
+  "parameters": [
+    {
+      "name": "name",
+      "description": "Nom à afficher dans le message.",
+      "required": true
+    },
+    {
+      "name": "mode",
+      "description": "Mode d'exécution facultatif.",
+      "required": false
+    }
+  ]
+}
